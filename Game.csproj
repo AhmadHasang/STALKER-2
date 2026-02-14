@@ -1,0 +1,3 @@
+git add MyProject.csproj
+git commit -m "Add .csproj for stronger C# detection"
+git push
